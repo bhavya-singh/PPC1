@@ -37,4 +37,4 @@ Along with a structured course content focusing on various MCQs & Coding questio
 - Dynamic Programming
 - Trie
 
-***Find the course ---> [here](https://practice.geeksforgeeks.org/courses/placement-preparation-course?vC=1)***
+***Find the course [here](https://practice.geeksforgeeks.org/courses/placement-preparation-course?vC=1)***
